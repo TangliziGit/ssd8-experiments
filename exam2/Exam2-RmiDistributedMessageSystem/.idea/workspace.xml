@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Exam2-RmiDistributedMessageSystem:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="886f868d-4e5e-4a9f-9945-76ef7e4d637d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VHShRZVwRtVxYq0N81fCAB5ymV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../理论课件/src&amp;tools/WebService" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29528302" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.Client" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tanglizi.dist.rmi.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiClientCheckMessagesWrongXX" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.RmiClient" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099 checkMessages xx x" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiClientCheckMessagesXX" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.RmiClient" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099 checkMessages xx xx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiClientCheckMessagesYY" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.RmiClient" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099 checkMessages yy yy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiClientLeaveMessageWrongX2Y" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.RmiClient" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099 leaveMessage xx x yy Hello!" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiClientLeaveMessageX2WrongY" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.RmiClient" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099 leaveMessage xx xx y Hello!" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiClientLeaveMessageX2Y" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.RmiClient" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099 leaveMessage xx xx yy Hello!" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiClientRegisterXX" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.RmiClient" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099 register xx xx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiClientRegisterYY" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.RmiClient" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099 register yy yy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiClientShowUsers" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.client.RmiClient" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <option name="PROGRAM_PARAMETERS" value="localhost 1099 showUsers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RmiServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.tanglizi.dist.rmi.server.RmiServer" />
+      <module name="Exam2-RmiDistributedMessageSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tanglizi.dist.rmi.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RmiClientRegisterXX" />
+      <item itemvalue="Application.RmiClientRegisterYY" />
+      <item itemvalue="Application.RmiClientShowUsers" />
+      <item itemvalue="Application.RmiClientCheckMessagesXX" />
+      <item itemvalue="Application.RmiClientCheckMessagesWrongXX" />
+      <item itemvalue="Application.RmiClientCheckMessagesYY" />
+      <item itemvalue="Application.RmiClientLeaveMessageX2Y" />
+      <item itemvalue="Application.RmiClientLeaveMessageWrongX2Y" />
+      <item itemvalue="Application.RmiClientLeaveMessageX2WrongY" />
+      <item itemvalue="Application.RmiServer" />
+      <item itemvalue="Application.Client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.RmiServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="886f868d-4e5e-4a9f-9945-76ef7e4d637d" name="Default Changelist" comment="" />
+      <created>1576908645306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576908645306</updated>
+      <workItem from="1576908649522" duration="1355000" />
+      <workItem from="1577504769637" duration="10865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
