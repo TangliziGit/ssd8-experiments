@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="Lab3-RMI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab3_RMI_jar</output-path>
+    <root id="root">
+      <element id="archive" name="RmiClient.jar">
+        <element id="module-output" name="Lab3-RMI" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab2-HttpServer&amp;HttpClient:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47bb6430-7a7b-4662-a8ad-dc3dfc319dc7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ts2nd1X8MDGoP6nvjfPnmNK9O1" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exam1/Lab2-HttpServer&amp;HttpClient" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29528302" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssd8.socket.http.Client" />
+      <module name="Lab2-HttpServer&amp;HttpClient" />
+      <option name="PROGRAM_PARAMETERS" value="localhost" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssd8.socket.http.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ssd8.socket.http.Client" />
+      <module name="Lab2-HttpServer&amp;HttpClient" />
+      <option name="PROGRAM_PARAMETERS" value="localhost" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssd8.socket.http.MultiServer" />
+      <module name="Lab2-HttpServer&amp;HttpClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssd8.socket.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssd8.socket.http.Server" />
+      <module name="Lab2-HttpServer&amp;HttpClient" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/tmp 8000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssd8.socket.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessorTest.testDefault" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2-HttpServer&amp;HttpClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssd8.socket.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssd8.socket.http" />
+      <option name="MAIN_CLASS_NAME" value="ssd8.socket.http.ProcessorTest" />
+      <option name="METHOD_NAME" value="testDefault" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessorTest.testPut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2-HttpServer&amp;HttpClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssd8.socket.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssd8.socket.http" />
+      <option name="MAIN_CLASS_NAME" value="ssd8.socket.http.ProcessorTest" />
+      <option name="METHOD_NAME" value="testPut" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client2" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.MultiServer" />
+      <item itemvalue="JUnit.ProcessorTest.testPut" />
+      <item itemvalue="JUnit.ProcessorTest.testDefault" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.MultiServer" />
+        <item itemvalue="JUnit.ProcessorTest.testDefault" />
+        <item itemvalue="JUnit.ProcessorTest.testPut" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47bb6430-7a7b-4662-a8ad-dc3dfc319dc7" name="Default Changelist" comment="" />
+      <created>1574172610475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574172610475</updated>
+      <workItem from="1574172613196" duration="3538000" />
+      <workItem from="1574234778539" duration="2803000" />
+      <workItem from="1574304023193" duration="14502000" />
+      <workItem from="1574410580448" duration="598000" />
+      <workItem from="1574411345749" duration="13198000" />
+      <workItem from="1574427933963" duration="4088000" />
+      <workItem from="1574483646395" duration="8483000" />
+      <workItem from="1574497311672" duration="2746000" />
+      <workItem from="1574577021011" duration="406000" />
+      <workItem from="1575690738629" duration="3424000" />
+      <workItem from="1575701646269" duration="377000" />
+      <workItem from="1575709960683" duration="19000" />
+      <workItem from="1576256234372" duration="144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="fileBuffer[144]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab2_HttpServer_HttpClient$Client.ic" NAME="Client Coverage Results" MODIFIED="1574489757216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ssd8.socket.http.client.*</FILTER>
+    </SUITE>
+  </component>
+</project>
