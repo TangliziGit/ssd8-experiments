@@ -49,7 +49,6 @@ My ssd8-networking&distribution course experiments in nwpu.
 │   ├── RmiClient.jar
 │   └── test.sh
 ├── lab4
-│   ├── 2017303024_张椿旭_实验四.zip
 │   ├── Lab4-WebService
 │   ├── README.md
 │   ├── README.pdf
@@ -99,10 +98,9 @@ My ssd8-networking&distribution course experiments in nwpu.
 ├── 网络与分布计算复习要点.pdf
 └── 网络与分布计算实验课进度安排.doc
 
-18 directories, 59 files
+18 directories, 58 files
 
 ```
-
 
 
 ## Key point
@@ -125,17 +123,14 @@ My ssd8-networking&distribution course experiments in nwpu.
 ### lab3
 
 1. used **strategy design pattern** to reduce maintenance difficulty, and clear the code.
-
 2. used **stream** operation to provide faster develop process.
 
 ### lab4
 
 1. using **strategy design pattern** to reduce maintenance difficulty, and clear the code.
-
 2. using **stream** operation to provide faster develop process.
 3. using **response** class to take error information and status information.
-
-3. considered **robustness**.
+4. considered **robustness**.
 
 ### exam1
 
@@ -147,7 +142,6 @@ My ssd8-networking&distribution course experiments in nwpu.
 ### exam2
 
 1. used **strategy design pattern** to reduce maintenance difficulty, and clear the code.
-
 2. use **Response** generic class to provide error informations.
 
 
