@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lab4-WebService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab4_WebService_jar</output-path>
+    <root id="archive" name="WebServiceClient.jar">
+      <element id="module-output" name="Lab4-WebService" />
+    </root>
+  </artifact>
+</component>
