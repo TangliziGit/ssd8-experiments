@@ -48,6 +48,13 @@ My ssd8-networking&distribution course experiments in nwpu.
 │   ├── README.pdf
 │   ├── RmiClient.jar
 │   └── test.sh
+├── lab4
+│   ├── 2017303024_张椿旭_实验四.zip
+│   ├── Lab4-WebService
+│   ├── README.md
+│   ├── README.pdf
+│   ├── WebServiceClient.jar
+│   └── WebServiceServer.jar
 ├── LICENSE
 ├── README.md
 ├── 参考资料
@@ -88,9 +95,12 @@ My ssd8-networking&distribution course experiments in nwpu.
 │   ├── 13_面向服务的分布计算.ppt
 │   ├── 14_公用服务式-志愿者参与分布计算.ppt
 │   └── src&tools
+├── 网络与分布计算复习要点.docx
+├── 网络与分布计算复习要点.pdf
 └── 网络与分布计算实验课进度安排.doc
 
-16 directories, 52 files
+18 directories, 59 files
+
 ```
 
 
@@ -120,7 +130,12 @@ My ssd8-networking&distribution course experiments in nwpu.
 
 ### lab4
 
-`TODO`
+1. using **strategy design pattern** to reduce maintenance difficulty, and clear the code.
+
+2. using **stream** operation to provide faster develop process.
+3. using **response** class to take error information and status information.
+
+3. considered **robustness**.
 
 ### exam1
 
