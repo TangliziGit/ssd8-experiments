@@ -6,8 +6,22 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="886f868d-4e5e-4a9f-9945-76ef7e4d637d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="886f868d-4e5e-4a9f-9945-76ef7e4d637d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/.attach_pid16344" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/Lab4-WebService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/adapter/InstantAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/adapter/SerializableObjectAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/client/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/entity/TodoItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/model/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/service/TodoListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/service/impl/TodoListServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/Lab4-WebService/src/me/tanglizi/util/TimeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,10 +37,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VHShRZVwRtVxYq0N81fCAB5ymV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -34,18 +56,6 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29528302" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -167,6 +177,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -179,10 +201,18 @@
       <updated>1576908645306</updated>
       <workItem from="1576908649522" duration="1355000" />
       <workItem from="1577504769637" duration="10865000" />
+      <workItem from="1578115277228" duration="1396000" />
+      <workItem from="1578119880251" duration="601000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="187" y="787" key="com.intellij.ide.util.TipDialog" timestamp="1578119879634">
+      <screen x="0" y="27" width="1080" height="1893" />
+    </state>
+    <state x="187" y="787" key="com.intellij.ide.util.TipDialog/1080.0.1920.1080/0.27.1080.1893@0.27.1080.1893" timestamp="1578119879634" />
   </component>
 </project>
